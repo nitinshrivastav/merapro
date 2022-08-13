@@ -5,4 +5,3 @@ MarkupSafe==1.1.1
 Jinja2==2.11.1
 pandas==1.2.4
 scikit-learn==0.24.1
-pickle=0.0.12
